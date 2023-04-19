@@ -7,6 +7,6 @@
 ---
 
 <div align="center">
-  In this directory, you'll find writeups organized by category, such as Web Exploitation, Forensics, Cryptography, and more. Each writeup includes a detailed explanation of the challenge, the tools and techniques used to solve it, and step-by-step instructions to help you solve it too.
+  In this directory, you'll find writeups organized by category, such as Web Exploitation, Forensics, Cryptography, and more. Each writeup includes a detailed explanation of the challenge, the tools and techniques used to solve it.
   </div>
 
