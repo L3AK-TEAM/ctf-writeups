@@ -12,6 +12,6 @@ we run the "file" command on the flag
 We see that it is an ASCII text.
 There is a command called "strings" that extracts human readable characters from a file. We can run it
 
-![strings command](obedietn _cat_flag.png)
+![strings command](/obedietn _cat_flag.png)
 
 And this is our flag.
