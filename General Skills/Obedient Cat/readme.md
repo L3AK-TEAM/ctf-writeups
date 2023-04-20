@@ -12,6 +12,6 @@ we run the "file" command on the flag
 We see that it is an ASCII text.
 There is a command called "strings" that extracts human readable characters from a file. We can run it:
 
-![strings command](./obedietn_cat_flag.png)
+[![strings command]([./obedietn_cat_flag.png](https://raw.githubusercontent.com/L3AK-TEAM/picoctf-writeups/main/General%20Skills/Obedient%20Cat/obedietn%20_cat_flag.png))](https://raw.githubusercontent.com/L3AK-TEAM/picoctf-writeups/main/General%20Skills/Obedient%20Cat/obedietn%20_cat_flag.png)
 
 And this is our flag.
