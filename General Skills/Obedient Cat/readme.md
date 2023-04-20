@@ -6,12 +6,12 @@
 
 In the challenge, we were given a file named "flag" and were asked to find the flag given that it is stored in plain sight.
 we run the "file" command on the flag
-![strings command](obedietn _cat_flag.png)
+
 ![file command](obedient_cat_file.png)
 
 We see that it is an ASCII text.
 There is a command called "strings" that extracts human readable characters from a file. We can run it:
 
-
+![strings](obedietn _cat_flag.png)
 
 And this is our flag.
