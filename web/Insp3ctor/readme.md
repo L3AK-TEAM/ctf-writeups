@@ -17,7 +17,7 @@ The JS file :
  
 The CSS file :
 
-![file command](css.pjpg)
+![file command](css.jpg)
 
 
 
