@@ -5,6 +5,7 @@
 ![Challenge Description](Insp3ctor.png)
 
 The "Insp3ctor" challenge.
+
 By searching in the source code and CSS/JS files, I was able to find the flag.
 
 The HTML content :
