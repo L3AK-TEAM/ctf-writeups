@@ -21,5 +21,5 @@ The CSS file :
 
 
 
-Flag
+## Flag
 `picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?832b0699}`
