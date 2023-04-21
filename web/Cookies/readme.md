@@ -7,6 +7,7 @@ The Cookie Challenge tests your ability to find a hidden flag by brute-forcing c
 
 1. `You can leverage a variety of tools, such as Burp Suite, to intercept the request.`
 
+Next we need to send the Request to Intruder.
 To do this, right-click on the request you want to send to Intruder in the "Proxy" tab and select "Send to Intruder" or press CTRL+I.   
 
 ![file command](Solution.png)
