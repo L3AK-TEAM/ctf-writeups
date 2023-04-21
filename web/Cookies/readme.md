@@ -5,12 +5,14 @@
 
 The Cookie Challenge tests your ability to find a hidden flag by brute-forcing cookies in a web application.
 
-1. You can leverage a variety of tools, such as Burp Suite, to intercept the request. To do this, right-click on the request you want to send to Intruder in the "Proxy" tab and select "Send to Intruder" or press CTRL+I. Next, upload your payload {-55..55} as shown in the image below. Finally, find the different lengths, as illustrated in the second image.
+1. You can leverage a variety of tools, such as Burp Suite, to intercept the request. To do this, right-click on the request you want to send to Intruder in the "Proxy" tab and select "Send to Intruder" or press CTRL+I.   
 
 ![file command](Solution.png)
 
+Next, upload your payload {-55..55} as shown in the image below.
 ![strings command](Solution-p1.png)
 
+Finally, find the different lengths, as illustrated in the second image.
 ![strings command](Solution-p2.png)
 
 2. You can also write your own script to brute-force the cookies, as demonstrated in the following image.
