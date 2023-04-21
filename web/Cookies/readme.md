@@ -10,9 +10,11 @@ The Cookie Challenge tests your ability to find a hidden flag by brute-forcing c
 ![file command](Solution.png)
 
 Next, upload your payload {-55..55} as shown in the image below.
+
 ![file command](Solution-p1.png)
 
 Finally, find the different lengths, as illustrated in the second image.
+
 ![file command](solution-p2.png)
 
 2. You can also write your own script to brute-force the cookies, as demonstrated in the following image.
