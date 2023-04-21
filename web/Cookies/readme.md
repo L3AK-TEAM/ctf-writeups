@@ -23,6 +23,5 @@ Finally, find the different lengths, as illustrated in the second image.
 
 ![file command](Solution2.png)
 
-Flag:
-
+## Flag
 ![file command](s.png)
