@@ -9,15 +9,15 @@ By searching in the source code and CSS/JS files, I was able to find the flag.
 
 The HTML content :
 
-![file command](source-code.png)
+![file command](source-code.jpg)
 
 The JS file :
 
-![file command](javascript.png)
+![file command](javascript.jpg)
  
 The CSS file :
 
-![file command](css.png)
+![file command](css.pjpg)
 
 
 
