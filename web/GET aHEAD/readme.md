@@ -15,5 +15,5 @@ The "GET aHEAD" challenge is a web security challenge where the user needs to us
 
 
 
-Flag
+## Flag
 `picoCTF{r3j3ct_th3_du4l1ty_82880908}`
