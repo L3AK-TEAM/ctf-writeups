@@ -12,7 +12,7 @@ To do this, right-click on the request you want to send to Intruder in the "Prox
 
 ![file command](Solution.png)
 
-Next, upload your payload {-55..55} as shown in the image below.
+Next,move to payload taband upload your payload {-55..55} as shown in the image below.
 
 ![file command](Solution-p1.png)
 
