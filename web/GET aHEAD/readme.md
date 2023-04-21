@@ -14,7 +14,8 @@ The "GET aHEAD" challenge is a web security challenge where the user needs to us
  `
  #!/bin/bash
 
-curl "http://mercury.picoctf.net:15931/index.php" -I HEAD -s | grep pico | cut -d ":" -f 2`
+curl "http://mercury.picoctf.net:15931/index.php" -I HEAD -s | grep pico | cut -d ":" -f 2
+`
  
 
 Flag
