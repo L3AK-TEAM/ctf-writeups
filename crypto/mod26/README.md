@@ -16,13 +16,13 @@ what ROT13 was ? If googled around a bit we realize that its a simple type of a 
 
 **Also To Note ROT13 does not rotate numbers by default.**
 
-###Here We See the results and of course the flag !
+### Here We See the results and of course the flag !
 
 
 ![image](https://user-images.githubusercontent.com/102762345/234507143-316750b9-a06b-477b-a76a-89770583c5eb.png)
 
 
-###The second way would be to use good old command line utility.
+### The second way would be to use good old command line utility.
 
 ![image](https://user-images.githubusercontent.com/102762345/234506832-b7390466-fd26-434d-b8be-4d32d1908efd.png)
 
