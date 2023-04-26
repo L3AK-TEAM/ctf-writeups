@@ -9,7 +9,7 @@
 
 
 
-This Challenge was fairly simple and easy. In the description of the challenge it was mentioned if we know what ROT13 was ? If googled around a bit we realize that its a simple type of a caesar cipher that is very old. Essentially what it does is, takes a etter of the original string and rotates that letter forward down the alphabet 13 times. Giving a simple example, we take a letter `E` and **ROT13** it, the output will be the letter `R`. If looked at the string provided in the challenge we will quickly realize that it would take ages counting it manually, thats when the power of internet comes in handy. The first way to solve it would be to use [CyberShef](https://gchq.github.io/CyberChef/).
+This Challenge was fairly simple and easy. In the description of the challenge it was mentioned if we know what ROT13 was ? If googled around a bit we realize that its a simple type of a caesar cipher that is very old. Essentially what it does is, takes a letter of the original string and rotates that letter forward down the alphabet 13 times. Giving a simple example, we take a letter `E` and **ROT13** it, the output will be the letter `R`. If looked at the string provided in the challenge we will quickly realize that it would take ages counting it manually, thats when the power of internet comes in handy. The first way to solve it would be to use [CyberShef](https://gchq.github.io/CyberChef/).
 
 **Also To Note ROT13 does not rotate numbers by default.**
 
