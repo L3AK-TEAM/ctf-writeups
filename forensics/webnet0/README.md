@@ -37,7 +37,7 @@ We see that https packets got decrypted properly , lets view them in HTTP Stream
 
 ![image](https://user-images.githubusercontent.com/102762345/236416947-6b0d1581-a998-4810-90b0-ffc10e3ebae9.png)
 
-**Amazing** , by observing the headers we see that one of the headers names is Pico-Flag and right beside it is our flag for this challenge.
+**Amazing** , by observing the headers we see that one of the server responce headers names is Pico-Flag and right beside it is our flag for this challenge.
 
 ``FLAG: picoCTF{nongshim.shrimp.crackers}``
 
