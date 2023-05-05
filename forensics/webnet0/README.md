@@ -17,9 +17,9 @@ Lets open that packet capture up in **wireshark** !
 
 Can be done with `wireshark capture.pcap`, if you are using Linux **:)**
 
-add encrypted image of packets 
+![image](https://user-images.githubusercontent.com/102762345/236416172-abf6bbd2-15f8-464a-b639-60e51a762f01.png)
 
-add protocol hierarchy
+![image](https://user-images.githubusercontent.com/102762345/236416216-32bf91bb-69bb-43cd-b885-9fe918fb5919.png)
 
 Few things to note there, is that the traffic seems to be encrypted with *Transport Layer Security (**TLS**)*. After looking at the port numbers we see its 443 **HTTPS** which is an encrypted form of HTTP. 
 
