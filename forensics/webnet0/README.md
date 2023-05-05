@@ -8,7 +8,8 @@
 
 This specific challenge was definetely where one can learn a lot from ! By reading the description we can tell that its going to be related to a packet capture traffic, as well as some sort of key. 
 
-add downloaded files
+![image](https://user-images.githubusercontent.com/102762345/236415753-06f7c96b-3fd2-4384-8e55-c7522b97d31f.png)
+
 
 As we can see we got 2 files which are `capture.pcap` and `picopico.key`.
 
