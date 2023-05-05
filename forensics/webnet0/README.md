@@ -31,7 +31,7 @@ This can be done by loading our RSA key in. Which can be achieved by going to `E
 
 Okay great we got our key in. Now its time to reload our `.pcap` and see what happened.
 
-add image of decrypted traffic.
+![image](https://user-images.githubusercontent.com/102762345/236416750-4ee9e7dd-9238-4084-a662-3ec4bcbe8583.png)
 
 We see that https packets got decrypted properly , lets view them in HTTP Stream now !
 
