@@ -27,7 +27,7 @@ If we try to follow the TCP stream we wont get anywhere at all ! So now our next
 
 This can be done by loading our RSA key in. Which can be achieved by going to `Edit --> Preferences --> RSA Keys`
 
-add 2 images on how this can be achieved.
+![image](https://user-images.githubusercontent.com/102762345/236416594-2fc990e2-a279-42de-9ad8-7cdab6ec96a3.png)
 
 Okay great we got our key in. Now its time to reload our `.pcap` and see what happened.
 
