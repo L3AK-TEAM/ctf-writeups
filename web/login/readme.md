@@ -2,3 +2,5 @@
 <br>
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F70000&width=435&lines=Web+Exploitation)
 ![Challenge Description](login.png)
+
+The "Login" challenge assesses your proficiency in deciphering JavaScript code and locating an encrypted flag
