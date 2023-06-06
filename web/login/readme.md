@@ -14,7 +14,7 @@ Now, let's proceed with reading the JavaScript file.
 </br>
 `"cGljb0NURns1M3J2M3JfNTNydjNyXzUzcnYzcl81M3J2M3JfNTNydjNyfQ"!==t.p`
 
-`Your flag is ${atob(t.p)`
+`Your flag is ${atob(t.p)}`
 The {atob} function facilitates the decoding process of a base64-encoded string, transforming it back to its original form.
 
 flag base64 = 'cGljb0NURns1M3J2M3JfNTNydjNyXzUzcnYzcl81M3J2M3JfNTNydjNyfQ'
