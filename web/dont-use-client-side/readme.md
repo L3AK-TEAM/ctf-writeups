@@ -8,7 +8,8 @@
 
 </br>
 By examining the source code, we can clearly observe a section of the flag.
-![file ls](js.png)
+</br>
+![file command](js.png)
 </br>
 `pico` | `CTF{` | `a3c8` | `ts_p` | `lien` | `lz_1` | `no_c` | `9}`
 </br>
