@@ -22,6 +22,8 @@ flag base64 = 'cGljb0NURns1M3J2M3JfNTNydjNyXzUzcnYzcl81M3J2M3JfNTNydjNyfQ'
 You can use online tools like CyberChef, Base64Decode.org, or various programming languages (e.g., Python, JavaScript) to decode base64-encoded strings
 ![file command](decode.png)
 </br>
-`curl -s https://login.mars.picoctf.net/index.js |grep -o cGljb0NURns1M3J2M3JfNTNydjNyXzUzcnYzcl81M3J2M3JfNTNydjNyfQ |base64 -d`
+```bash
+curl -s https://login.mars.picoctf.net/index.js |grep -o cGljb0NURns1M3J2M3JfNTNydjNyXzUzcnYzcl81M3J2M3JfNTNydjNyfQ |base64 -d
+```
 ## flag
 picoCTF{53rv3r_53rv3r_53rv3r_53rv3r_53rv3r}
