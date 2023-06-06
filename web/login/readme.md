@@ -5,7 +5,7 @@
 
 The "Login" challenge assesses your proficiency in deciphering JavaScript code and locating an encrypted flag
 
- `You can use right-click + view source or CTFL+U to page source`
+ `Utilize "right-click + view source" or "Ctrl+U" to access page source for assistance in solving the challenge.`
 ![file command](source.png)
 </br>
 Now, let's proceed with reading the JavaScript file.
