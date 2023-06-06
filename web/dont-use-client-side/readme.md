@@ -3,13 +3,15 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F70000&width=435&lines=Web+Exploitation)
 ![Challenge Description](dont-use-client-side.png)
 
-## The dont-use-client-side Challenge
+The dont-use-client-side Challenge
 ![file command](index.png)
 
 </br>
 By examining the source code, we can clearly observe a section of the flag.
 </br>
+
 ![file command](js.png)
+
 </br>
 `pico` | `CTF{` | `a3c8` | `ts_p` | `lien` | `lz_1` | `no_c` | `9}`
 </br>
