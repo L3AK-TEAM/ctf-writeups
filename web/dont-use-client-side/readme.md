@@ -13,7 +13,7 @@ By examining the source code, we can clearly observe a section of the flag.
 ![file command](js.png)
 
 </br>
-`pico` | `CTF{` | `a3c8` | `ts_p` | `lien` | `lz_1` | `no_c` | `9}`
+`pico`   |   `CTF{`   |   `a3c8`   |   `ts_p`   |   `lien`   |   `lz_1`   |   `no_c`   |   `9}`
 </br>
 Let's generate a flag by combining these parts.
 </br>
