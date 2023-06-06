@@ -5,7 +5,7 @@
 
 The Cookie Challenge tests your ability to find a hidden flag by brute-forcing cookies in a web application.
 
-1. `You can leverage a variety of tools, such as Burp Suite, to intercept the request.`
+1. `Utilize "right-click + view source" or "Ctrl+U" to access page source for assistance in solving the challenge.`
 
 Next we need to send the Request to Intruder.
 To do this, right-click on the request you want to send to Intruder in the "Proxy" tab and select "Send to Intruder" or press CTRL+I.   
