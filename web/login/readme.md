@@ -23,7 +23,7 @@ You can use online tools like CyberChef, Base64Decode.org, or various programmin
 ![file command](decode.png)
 </br>
 ```bash
-curl -s https://login.mars.picoctf.net/index.js |grep -o cGljb0NURns1M3J2M3JfNTNydjNyXzUzcnYzcl81M3J2M3JfNTNydjNyfQ |base64 -d
+echo cGljb0NURns1M3J2M3JfNTNydjNyXzUzcnYzcl81M3J2M3JfNTNydjNyfQ |base64 -d
 ```
 ## flag
 picoCTF{53rv3r_53rv3r_53rv3r_53rv3r_53rv3r}
