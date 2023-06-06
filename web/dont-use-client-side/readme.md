@@ -23,7 +23,8 @@ By examining the source code, we can clearly observe a section of the flag.
 
 </br>
 
-`curl -s https://jupiter.challenges.picoctf.org/problem/37821/ | awk -F "'" '/if /{print $2}' | tr '\n' ' ' | awk '{print $1 $3 $7 $5 $4 $6 $2 $8}'
-`
+```bash
+curl -s https://jupiter.challenges.picoctf.org/problem/37821/ | awk -F "'" '/if /{print $2}' | tr '\n' ' ' | awk '{print $1 $3 $7 $5 $4 $6 $2 $8}'
+```
 ## flag
 picoCTF{no_clients_plz_1a3c89}
